@@ -7,6 +7,8 @@ public class Main {
 
         System.out.println( myNewBlackJeans.cost() + "\n" );
         System.out.println(myNewBlueJeans.cost() );
+
+
     }
 }
 
