@@ -11,8 +11,7 @@ package builder_room;
     public CakeBuilder(String name, String size) {
         this.name = name;
         this.size = size;
-        //this.filling = filling;
-        //this.base = base;
+
     }
 
 
